@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.wscomp.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "mkPortal",
+    "packageName": "com.wscomp.app",
+    "packageFolder": "com/wscomp/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjA5NTdiYTg4OGI1OTZjZjhlMTc2ZWVhOTczMGUyY2NlMTk5MzVlNjUxMDczNjMwZjVkYTE1Y2JjNGZmMWI0NjY2MzdhNWI3NWFjODczZjNkMzEyOGQ5NDNiM2YxOGU2ZjI2YTQxZTdiMzc3YzU5ODRjY2FmNGJjMzczZDdkMmE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1674785031684,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "zh-cn"],
+    "blueprints": []
+  }
+}
